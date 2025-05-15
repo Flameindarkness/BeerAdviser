@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
             "Light" -> listOf("Jail Pale Ale", "Lager Lite")
             "Amber" -> listOf("Jack Amber", "Red Moose")
             "Brown" -> listOf("Brown Bear Beer", "Bock Brownie")
+            "Red" -> listOf("Vienna lager", "Irish Red Ale")
             else -> listOf("Gout Stout", "Dark Daniel")
         }
     }
